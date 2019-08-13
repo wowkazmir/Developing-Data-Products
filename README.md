@@ -1,7 +1,7 @@
 Developing Data Products Course Project
 ==================================
 
-This repo contains the files and documents for a shiny app developed for the Developing Data Products course in the Data Science Specialization.
+This repo contains the files and documents for a shiny app developed for the Developing Data Products course in the Data Science Specialization on Coursera.
 
 ## Shiny Application
 
