@@ -9,5 +9,5 @@ You can access my app here: https://wowkazmir.shinyapps.io/shinyapp/
 
 ## Reproducible Pitch Presentation
 
-You can view my presentation here:
+You can view my presentation here: https://rpubs.com/wowkazmir/519598
 
